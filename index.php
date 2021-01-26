@@ -8,7 +8,7 @@
 <p align="center"><font size="80"><u><b> "THE STORY OF POVERTY" </p allign"center"> </u> </b> </font size="80"
 </p><div style='text-align:center;font-weight:bold'>
 				
-    <marquee><table class="image" align="center" >
+	<table class="image" align="center" >
     <tr>
       <td>
         <img src="3969.jpg" 
@@ -25,17 +25,13 @@
     </tr>
     <tr>
       <td class="caption">
-        Sardines in Bordeaux
       </td>
       <td class="caption">
-        Lunch in Paris
-      </td>
+             </td>
     </tr>
     </table>
   </div>
-	</marquee>
-
-<p align="center"><img width="450px" img src="3969.jpg"></p align="center">
+	
 <br>
 <br>
 <br>
