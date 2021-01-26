@@ -7,7 +7,11 @@
 <font color="white"><h1><b><font face="arial"><p align="center"> TODAY </b></h1>
 <p align="center"><font size="80"><u><b> "THE STORY OF POVERTY" </p allign"center"> </u> </b> </font size="80"
 </p>
-<p align="center"><img width="500px" img src="3969.jpg"></p align="center">
+<div>
+<div style=”width:50%”><img src="3936"></div>
+<div style=”width:50%”><img scr="poberty"></div>
+</div>
+<p align="center"><img width="450px" img src="3969.jpg"></p align="center">
 <br>
 <br>
 <br>
