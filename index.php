@@ -9,8 +9,6 @@
 </p>
 <p align="center"><img width="700px" img src="3969.jpg"></p align="center">
 <p>
-<p>
-  <p>
 <center><b><h3> Villanueva, Jasmine Rin
 <br>
 <br>
