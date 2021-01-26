@@ -10,7 +10,7 @@
 <div>
 <div style=”width:35%”><img src="3936.jpg"></div>
 <div style=”width:35%”><img scr="poberty.png"></div>
-<div style=”width:35%”><img scr="download.jiff"></div>
+<div style=”width:35%”><img scr="download.jfif"></div>
 </div>
 <p align="center"><img width="450px" img src="3969.jpg"></p align="center">
 <br>
