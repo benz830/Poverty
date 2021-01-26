@@ -7,23 +7,19 @@
 <font color="white"><h1><b><font face="arial"><p align="center"> TODAY </b></h1>
 <p align="center"><font size="80"><u><b> "THE STORY OF POVERTY" </p allign"center"> </u> </b> </font size="80"
 </p><div style='text-align:center;font-weight:bold'>
-		
-    <h1>
-      Just couple of reasons we go to France every year......
-    </h1>
-		
-    <table class="image" align="center" >
+				
+    <marquee><table class="image" align="center" >
     <tr>
       <td>
         <img src="3969.jpg" 
                height="325" width="500" border="4"
-               alt="Sardines, Bordeaux"  
+               alt="poverty"  
         />
       </td>
       <td>
         <img src="poberty.png" 
                height="325" width="500" border="4"
-               alt="Mid-day in Paris"  
+               alt="story of poverty"  
         />
       </td>
     </tr>
@@ -37,7 +33,7 @@
     </tr>
     </table>
   </div>
-
+	</marquee>
 
 <p align="center"><img width="450px" img src="3969.jpg"></p align="center">
 <br>
