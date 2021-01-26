@@ -8,7 +8,10 @@
 <p align="center"><font size="80"><u><b> "THE STORY OF POVERTY" </p allign"center"> </u> </b> </font size="80"
 </p>
 <p align="center"><img width="700px" img src="3969.jpg"></p align="center">
-<p>
+<br>
+<br>
+<br>
+<br>
 <center><b><h3> Villanueva, Jasmine Rin
 <br>
 <br>
