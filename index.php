@@ -13,10 +13,10 @@
 <br>
 <br>
 <br>
+<br><center><b><h3> Group 1
 <br>
 <br>
-<br>
-<center><b><h3> Villanueva, Jasmine Rin
+Villanueva, Jasmine Rin
 <br>
 <br>
 Estalilla, Rogil Menosa
