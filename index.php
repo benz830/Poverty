@@ -4,7 +4,7 @@
 </head>
 <body>
 <body background="bkg.png">
-<font color="white"><h1><b><font face="arial"><p align="center"> TODAY </b></h1>
+<font color="black"><h1><b><font face="arial"><p align="center"> TODAY </b></h1>
 <p align="center"><font size="80"><u><b> "THE STORY OF POVERTY" </p allign"center"> </u> </b> </font size="80"
 </p><div style='text-align:center;font-weight:bold'>
 				
@@ -37,7 +37,7 @@
 <br>
 <br>
 <br>
-<br><center><b><h3> Group 1
+<br><center><b><h3><font color="black"> Group 1
 <br>
 <br>
 Villanueva, Jasmine Rin
@@ -52,6 +52,6 @@ Martinez, Benz
 Chua, Aldrin
 <br>
 <br>
-Lumuag, Leo </center><b><h3>
+Lumuag, Leo </center></b></h3></font>
 </body>
 </html>
