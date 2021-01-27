@@ -3,7 +3,7 @@
 <title> POVERTY </title>
 </head>
 <body>
-<body background="backg.png">
+<body background="backg.jpg">
 	<br>
 	<br>
 	<br>
