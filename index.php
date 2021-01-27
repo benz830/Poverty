@@ -7,7 +7,7 @@
 	<br>
 	<br>
 	<br>
-<font color="cyan"><h1><b><font face="arial"><p align="center"> TODAY </b></h1>
+<font color="white"><h1><b><font face="arial"><p align="center"> TODAY </b></h1>
 <p align="center"><font size="80"><u><b> "THE STORY OF POVERTY" </p allign"center"> </u> </b> </font size="80"
 </p><div style='text-align:center;font-weight:bold'>
 				
