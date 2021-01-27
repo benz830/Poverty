@@ -40,7 +40,7 @@
 <br>
 <br>
 <br>
-<br><center><b><h2><font color="teal"> Group 1
+<br><center><b><h2><font color="purple"> Group 1
 <br>
 <br>
 Villanueva, Jasmine Rin
