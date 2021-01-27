@@ -15,8 +15,7 @@
 	<br>
 	<br>
 	<br>
-	<br>
-<font color="white"><h1><b><font face="arial"><p align="center"> TODAY </b></h1>
+<font color="black"><h1><b><font face="arial"><p align="center"> TODAY </b></h1>
 <p align="center"><font size="80"><u><b> "THE STORY OF POVERTY" </p allign"center"> </u> </b> </font size="80"
 </p><div style='text-align:center;font-weight:bold'>
 				
@@ -48,8 +47,7 @@
 <br>
 <br>
 <br>
-<br>
-<br><center><b><h2><font color="black"> Group 1
+<br><center><b><h2><font color="white"> Group 1
 <br>
 <br>
 Villanueva, Jasmine Rin
